@@ -1,6 +1,7 @@
 @charset "UTF-8";
 
 body {
+	padding: 10, 20, 10, 20;
 	font-family: "Myriad Pro Light", "Helvetica Neue", Helvetica, sans-serif;
 	letter-spacing: .5px;
 	word-spacing: 2px;
@@ -25,9 +26,6 @@ div.itemdiv {
 	padding: 20px;
 	
 }
-
-
-
 
 ul {
     list-style-type: none;
